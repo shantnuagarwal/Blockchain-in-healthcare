@@ -1,0 +1,23 @@
+html, body {
+  height: 100%;
+  background-image: linear-gradient(to bottom right, #006374, #1500d4);
+}
+
+.App {
+  margin: 1.5rem;
+}
+
+.card-body {
+  padding: 1.5rem;
+}
+
+.header-icon {
+  font-size: 2.5rem;
+  margin-right: 0.5rem;
+  color: #28a745;
+}
+
+.debug-buttons {
+  margin-bottom: 1rem;
+  margin-right: 0.3rem;
+}
